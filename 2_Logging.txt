@@ -1,0 +1,17 @@
+PropTech AI Agent – Smart Lease Risk & Compliance Analyzer
+
+---
+
+Day 1 – RAG Architecture
+
+Bước 1 – Lấy dữ liệu
+
+Tìm lease agreement PDF ở:
+- SEC EDGAR filings
+- Kaggle “Lease agreement dataset”
+- Hoặc search “sample residential lease agreement pdf”
+
+https://www.emcbc.doe.gov/SEB/Files/MercuryStorage/FinalRFP/J-5.pdf
+https://www.saginaw-mi.com/DocumentCenter/View/3640/VA-Parking-Lease-Agreement
+https://webgen1files.revize.com/hambsc/Sample%20Lease%20Agreement.pdf
+https://www.payab.pitt.edu/files/ApartmentFinder101/PennsylvaniaStandardResidentialLeaseAgreement.pdf

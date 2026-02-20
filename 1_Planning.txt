@@ -1,0 +1,288 @@
+PropTech AI Agent – Smart Lease Risk & Compliance Analyzer
+
+---
+
+# 🎯 Mục tiêu Tuần 1
+
+Build được:
+
+> 1 RAG system + 1 Agent có tool gọi được, trả lời dựa trên hợp đồng Proptech.
+
+Không cần multi-agent phức tạp. Chỉ cần hiểu sâu.
+
+---
+
+# Day 1 – RAG Architecture (Hiểu chứ không phải thuộc lòng)
+
+## Bạn phải làm được:
+
+Vẽ được pipeline:
+
+```
+Document → Chunk → Embedding → Vector DB
+Query → Embed → Retrieve → LLM → Answer
+```
+
+## Thực hành:
+
+* Lấy 1 hợp đồng thuê nhà PDF
+* Parse ra text
+* Chia chunk
+* Lưu FAISS / Chroma
+* Query: “What is the termination clause?”
+
+## Phải trả lời được:
+
+* RAG giải quyết vấn đề gì?
+* Vì sao không đưa nguyên document vào context?
+* Context window limit ảnh hưởng ra sao?
+
+---
+
+# 📅 Day 2 – Embedding + Chunking Strategy
+
+Đây là chỗ phân biệt người biết sơ và người hiểu thật.
+
+## Thực hành:
+
+Test 3 cách chunk:
+
+1. Fixed size 500 tokens
+2. Overlap 100 tokens
+3. Theo heading / clause boundary
+
+So sánh:
+
+* Retrieval accuracy
+* Có miss clause không?
+
+## Phải nói được:
+
+* Embedding model làm gì?
+* Cosine similarity là gì?
+* Chunk quá nhỏ vs quá to thì sao?
+
+---
+
+# 📅 Day 3 – Vector DB
+
+Không cần Milvus production. FAISS / Chroma là đủ.
+
+## Bạn cần hiểu:
+
+* Index type (Flat vs IVF)
+* Tradeoff tốc độ vs accuracy
+* Metadata filter
+
+## Thực hành:
+
+Lưu metadata:
+
+```
+{
+  clause_type: "termination",
+  page: 12
+}
+```
+
+Query có filter.
+
+---
+
+# 📅 Day 4 – Prompt Engineering + Grounding
+
+Đây là chỗ hallucination bắt đầu.
+
+## Thực hành:
+
+Test 3 kiểu prompt:
+
+1. Basic QA
+2. Với instruction “Only answer from context”
+3. Với citation format
+
+So sánh output.
+
+## Phải nói được:
+
+* Prompt injection là gì?
+* Tại sao RAG vẫn hallucinate?
+* Grounding hoạt động ra sao?
+
+---
+
+# 📅 Day 5 – Agent Basics + Function Calling
+
+Giờ mới tới phần agent.
+
+Build 1 agent đơn giản:
+
+User hỏi:
+
+> "Analyze financial risk in this lease"
+
+Agent sẽ:
+
+* Gọi retrieval tool
+* Gọi risk scoring tool
+* Tổng hợp kết quả
+
+## Tool bạn tạo:
+
+```python
+def search_clause(query): ...
+def calculate_risk(text): ...
+```
+
+## Phải nói được:
+
+* Agent khác gì LLM thường?
+* Function calling hoạt động thế nào?
+* Tool usage giúp gì?
+
+---
+
+# 📅 Day 6 – Single Agent vs Workflow
+
+Tạo 2 version:
+
+## Version A – Workflow cứng:
+
+```
+retrieve → analyze → score
+```
+
+## Version B – Agent tự quyết định tool
+
+So sánh:
+
+* Control
+* Linh hoạt
+* Debug khó hay dễ?
+
+## Phải nói được:
+
+* Khi nào nên dùng workflow?
+* Khi nào agent có lợi?
+
+---
+
+# 📅 Day 7 – Reliability + Reflection
+
+Đây mới là phần người ta hỏi thật sự.
+
+Test:
+
+* Query mơ hồ
+* Query ngoài scope
+* Query sai luật
+
+Quan sát:
+
+* Agent có loop không?
+* Có gọi tool vô nghĩa không?
+* Có bịa không?
+
+## Phải nói được:
+
+* Agent dễ fail ở đâu?
+* Hallucination khác tool misuse thế nào?
+* Làm sao hạn chế loop vô hạn?
+
+---
+
+# 🧠 Giờ tóm lại Tuần 1 bạn cần hiểu gì?
+
+## 1. Agent là gì?
+
+LLM + khả năng:
+
+* Lập kế hoạch
+* Gọi tool
+* Quyết định bước tiếp theo
+
+Không phải chatbot fancy.
+
+---
+
+## 2. Khi nào dùng agent thay workflow cứng?
+
+Dùng agent khi:
+
+* Task không xác định trước step
+* Có nhiều tool
+* Cần reasoning linh hoạt
+
+Không dùng agent khi:
+
+* Pipeline cố định
+* Logic rõ ràng
+* Cần deterministic 100%
+
+---
+
+## 3. Ưu nhược điểm Agentic System
+
+### Ưu:
+
+* Linh hoạt
+* Khả năng xử lý task phức tạp
+* Dễ mở rộng tool
+
+### Nhược:
+
+* Khó debug
+* Không deterministic
+* Cost cao
+* Dễ loop
+* Hard to monitor
+
+---
+
+## 4. Reliability vấn đề ở đâu?
+
+* Hallucination
+* Tool misuse
+* Infinite loop
+* Context drift
+* Không bám retrieval
+
+Và đây là phần phỏng vấn thích hỏi nhất.
+
+---
+
+# 🚨 Quan trọng nhất
+
+Mỗi ngày:
+
+* Build demo nhỏ
+* Vẽ lại architecture
+* Viết lại bằng lời
+
+Nếu bạn không tự build, bạn sẽ chỉ “nghe quen quen”.
+
+---
+
+# 💡 Có nên múa project không?
+
+Có. Nhưng không phải múa cho đẹp.
+
+Bạn cần:
+
+* Code repo rõ ràng
+* Diagram
+* README giải thích design decision
+* Phần “Limitations & Failure Cases”
+
+Nếu bạn làm được vậy trong 1 tuần, bạn đã hơn 70% người chỉ học theory.
+
+---
+
+Bạn đang đi hướng SE + DE cho AI system.
+
+Tuần 1 này không phải học cho vui.
+
+Nó là nền móng để sau này bạn không build một đống agent vô dụng rồi tự hỏi vì sao production cháy.
+
+Làm cho ra chất kỹ sư. Không phải người chơi demo.
+
