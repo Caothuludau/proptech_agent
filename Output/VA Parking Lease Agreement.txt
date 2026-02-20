@@ -1,0 +1,938 @@
+36C25025L0008
+U.S. GOVERNMENT LEASE FOR REAL PROPERTY 1a. LEASE NUMBER 1b. BUILDING NUMBER
+N/A
+(Short Form)
+PART I - OFFER (Offeror completes Section A, C and D; Government shall complete Section B)
+NOTE: All offers are subject to the terms and conditions outlined in Request for Lease Proposals No. 36C25025R0007, Supplemental Lease
+Requirements document 36C25025L0008, General Clauses (GSA Form 3517A), and any other attachments included herein.
+A. LOCATION AND DESCRIPTION OF PREMISES OFFERED FOR LEASE BY GOVERNMENT
+1. NAME AND ADDRESS OF 2. LOCATION(S) IN BUILDING
+PARKING (Include nine-digit
+ZIP Code)
+2e NUMBER OF PARKING SPACES
+2a. FLOOR(S) 2b. ROOM NUMBER(S)
+OFFERED
+N/A N/A
+STRUCTURED N/A
+2c. SQ. FT. 2d. TYPE SURFACE 80
+ANNUAL PARKING RATES (IF NOT
+RENTABLE N/A GENERAL OFFICE
+INCLUDED IN RATES UNDER PART C
+ABOA N/A WAREHOUSE BELOW)
+Common Area Factor OTHER (Specify) STRUCTURED $ N/A_______/space
+N/A Parking SURFACE $____________/space
+B. TERM
+3a. To have and to hold the said Premises with its appurtenances for the term beginning upon acceptance of the Premises as required by this
+Lease and continuing for a period of 20 Years, 20 Years Firm, subject to termination and renewal rights as may be hereinafter set forth. The
+commencement date of this Lease, along with any applicable termination and renewal rights, shall be more specifically set forth in a Lease Amendment upon
+substantial completion and acceptance of the Space by the Government.
+3b. The Government may terminate this Lease, in whole or in parts, at any time effective after the Firm Term of this Lease, by providing not less than
+N/A days prior written notice to the Lessor. The effective date of the termination shall be the day following the expiration of the required notice period
+or the termination date set forth in the notice, whichever is later. No rental shall accrue after the effective date of termination.
+3c. This Lease may be renewed at the option of the Government for a term of 0 YEARS at the rental rate(s) set forth below, provided notice is given
+to the Lessor at least 0 days before the end of the original Lease term; all other terms and conditions of this Lease, as same may have been amended,
+shall remain in full force and effect during any renewal term.
+C. RENTAL
+4.Rent shall be payable in arrears and will be due on the first workday of each month. When the date for commencement of the lease falls after the
+15th day of the month, the initial rental payment shall be due on the first workday of the second month following the commencement date. Rent for a
+period of less than a month shall be prorated. Rent shall not be adjusted for changes in real estate taxes or operating costs.
+5a. AMOUNT OF ANNUAL RENT 5b. RATE PER MONTH 5c. RATE PER PARKING SPACE
+RENTAL RATE BREAKDOWN FIRM TERM NON-FIRM TERM RENEWAL TERM
+($/RSF/YEAR) ($/RSF/YEAR) ($/RSF/YEAR)
+6.BUILDING SHELL RENT 6a. $N/A 6b. Same as 6a 6c. $N/A
+(INCL. REAL ESTATE TAXES)
+7.OPERATING RENT 7a. $N/A 7b. Same as 7a 7b. Same as 7a
+8.TURNKEYN TENANT 8a. $N/A 8b. $N/A 8c. $N/A
+IMPROVEMENT RENT
+(See blocks 12 and 13 below
+for additional breakdown of
+cost and amortization rate )
+9.BUILDING SPECIFIC 9a. $N/A 9b. $N/A 9c. $N/A
+AMORTIZED CAPITAL (IF
+APPLICABLE)
+10.TOTAL RENT 10a. $ 10b. $ 10c. $
+11. TENANT IMPROVEMENT COSTS 12. INTEREST RATE TO AMORTIZE TENANT
+N/A IMPROVEMENTS
+N/A
+13. HVAC OVERTIME RATE PER HOUR N/A 14. ADJUSTMENT FOR VACANT PREMISES RATE
+($/ABOA SF/YEAR) N/A
+LEASE 36C25025L0008 GSA FORM 3626 (REV 10/21)
+Page 1 of 2
+D. OWNER IDENTIFICATION AND CERTIFICATION
+15. RECORDED OWNER
+15a. Name 15b. Unique Entity Identifier (UEI)
+15c. Address 15d. City 15e. State 15f. ZIP + 4
+16. BY SUBMITTING THIS OFFER, THE OFFEROR AGREES UPON ACCEPTANCE OF THIS PROPOSAL BY HEREIN SPECIFIED DATE, TO
+LEASE TO THE UNITED STATES OF AMERICA, THE PREMISES DESCRIBED, UPON THE TERMS AND CONDITIONS AS SPECIFIED
+HEREIN, IN FULL COMPLIANCE WITH AND ACCEPTANCE OF THE AFOREMENTIONED RLP, WITH ATTACHMENTS.
+I have read the RLP with attachments in its entirety and am requesting no deviations
+17. OFFEROR’S INTEREST IN PROPERTY
+OWNER AUTHORIZED AGENT OTHER (Specify)
+18. OFFEROR Check if same as Recorded Owner
+18a. NAME 18b. ADDRESS 18c. CITY 18d. STATE 18e. ZIP + 4
+18f. Title 18g. E-mail address 18h. Telephone Number
+18i. OFFEROR’S SIGNATURE 18j. DATE SIGNED
+PART II - AWARD (To be completed by Government)
+1. Your offer is hereby accepted. This award consummates the Lease, which consists of the following attached documents: (a) this GSA Form 3626,
+(b) Supplemental Lease Requirements, (c) Security Requirements, (d) Agency Specific Requirements, (e) Floor Plan delineating the Premises, (f) GSA
+Form 3517A, General Clauses (Acquisition of Leasehold Interests in Real Property for Small Leases), and (g) the following building improvements,
+changes or additions made or agreed to by you (for example, energy efficiency and conservation improvements, (if applicable)):
+2. THIS DOCUMENT IS NOT BINDING ON THE GOVERNMENT OF THE UNITED STATES OF AMERICA UNLESS SIGNED BELOW BY
+AUTHORIZED LEASE CONTRACTING OFFICER.
+3a. NAME OF LEASE CONTRACTING OFFICER (Type or Print) 3b. SIGNATURE OF LEASE 3c. DATE
+CONTRACTING OFFICER
+LEASE 36C25025L0008 GSA FORM 3626 (REV 10/21)
+Page 2 of 2
+TABLE OF CONTENTS – SUPPLEMENTAL LEASE REQUIREMENTS
+SECTION 1 GENERAL TERMS, CONDITIONS, AND STANDARDS ................................................................................................................... 3
+1.01 DEFINITIONS AND GENERAL TERMS (SMALL) (OCT 2023) ..................................................................................................................... 3
+1.02 PUBLIC TRANSPORTATION (SMALL) (SEP 2015) INTENTIONALLY DELETED ..................................................................................... 3
+1.03 AUTHORIZED REPRESENTATIVES (OCT 2016) ......................................................................................................................................... 3
+1.04 WAIVER OF RESTORATION (OCT 2023) ...................................................................................................................................................... 3
+1.05 NOVATION AND CHANGE OF OWNERSHIP (SMALL) (OCT 2016) ........................................................................................................... 4
+1.06 ASBESTOS (SMALL) (OCT 2021) ................................................................................................................................................................... 4
+1.07 ADJUSTMENT FOR VACANT PREMISES (SMALL) (OCT 2022) INTENTIONALLY DELETED ............................................................... 4
+1.08 ENTITY NAME (OCT 2023) .............................................................................................................................................................................. 4
+SECTION 2 CONSTRUCTION STANDARDS AND SHELL COMPONENTS ....................................................................................................... 5
+2.01 WORK PERFORMANCE (SMALL) (SEP 2015) .............................................................................................................................................. 5
+2.02 EXISTING FIT-OUT, SALVAGED, OR REUSED BUILDING MATERIAL (SMALL) (SEP 2015) INTENTIONALLY DELETED................ 5
+2.03 WOOD PRODUCTS (SMALL) (OCT 2023) INTENTIONALLY DELETED .................................................................................................... 5
+2.04 ADHESIVES AND SEALANTS (SMALL) (OCT 2020) INTENTIONALLY DELETED ................................................................................... 5
+2.05 BUILDING SHELL REQUIREMENTS (SMALL) (OCT 2019) INTENTIONALLY DELETED ........................................................................ 5
+2.06 RESPONSIBILITY OF THE LESSOR AND LESSOR’S ARCHITECT/ENGINEER (SMALL) (SEP 2015) ................................................. 5
+2.07 MEANS OF EGRESS (MAY 2015) ................................................................................................................................................................... 5
+2.08 AUTOMATIC FIRE SPRINKLER SYSTEM (OCT 2023)................................................................................................................................. 5
+2.09 FIRE ALARM SYSTEM (SEP 2013) ................................................................................................................................................................. 6
+2.10 ENERGY INDEPENDENCE AND SECURITY ACT (SMALL) (SEP 2015) ................................................................................................... 6
+2.11 ELEVATORS (SMALL) (OCT 2020) INTENTIONALLY DELETED ................................................................................................................ 6
+2.12 DEMOLITION (JUN 2012) INTENTIONALLY DELETED................................................................................................................................ 6
+2.13 ACCESSIBILITY (OCT 2024) ........................................................................................................................................................................... 6
+2.14 CEILINGS (SMALL) (OCT 2019) INTENTIONALLY DELETED ..................................................................................................................... 6
+2.15 EXTERIOR AND COMMON AREA DOORS AND HARDWARE (SEP 2013) INTENTIONALLY DELETED.............................................. 6
+2.16 WINDOWS (SMALL) (OCT 2020) INTENTIONALLY DELETED ................................................................................................................... 6
+2.17 PARTITIONS: PERMANENT (SMALL) (OCT 2019) INTENTIONALLY DELETED ..................................................................................... 6
+2.18 INSULATION: THERMAL, ACOUSTIC, AND HVAC (SMALL) (OCT 2020) INTENTIONALLY DELETED ............................................... 6
+2.19 PAINTING – SHELL (SMALL) (OCT 2020)...................................................................................................................................................... 7
+2.20 FLOORS AND FLOOR LOAD (SMALL) (OCT 2019) INTENTIONALLY DELETED..................................................................................... 7
+2.21 MECHANICAL, ELECTRICAL, PLUMBING: GENERAL (SMALL) (SEP 2015) INTENTIONALLY DELETED .......................................... 7
+2.22 DRINKING FOUNTAINS (OCT 2023) INTENTIONALLY DELETED ............................................................................................................. 7
+2.23 RESTROOMS (SMALL) (OCT 2022) INTENTIONALLY DELETED .............................................................................................................. 7
+2.24 HEATING, VENTILATION, AND AIR CONDITIONING – SHELL (SMALL) (OCT 2022) INTENTIONALLY DELETED ............................ 7
+2.25 TELECOMMUNICATIONS: DISTRIBUTION AND EQUIPMENT (SMALL) (SEP 2015) INTENTIONALLY DELETED ............................ 7
+2.26 TELECOMMUNICATIONS: LOCAL EXCHANGE ACCESS (SMALL) (OCT 2020) INTENTIONALLY DELETED ................................... 7
+2.27 LIGHTING: INTERIOR AND PARKING – SHELL (SMALL) (OCT 2022) ..................................................................................................... 7
+2.28 INDOOR AIR QUALITY DURING CONSTRUCTION (SMALL) (OCT 2021) INTENTIONALLY DELETED ............................................... 8
+2.29 NATIONAL HISTORIC PRESERVATION ACT REQUIREMENTS - LEASE (SMALL) (SEP 2015) INTENTIONALLY DELETED........... 8
+SECTION 3 DESIGN, CONSTRUCTION, AND POST AWARD ACTIVITIES ....................................................................................................... 9
+3.01 SCHEDULE FOR COMPLETION OF SPACE (SMALL) (OCT 2020) INTENTIONALLY DELETED ........................................................... 9
+3.02 ACCESS BY THE GOVERNMENT PRIOR TO ACCEPTANCE (SMALL) (OCT 2020) ............................................................................... 9
+3.03 ACCEPTANCE OF SPACE AND CERTIFICATE OF OCCUPANCY (SMALL) (OCT 2021) ....................................................................... 9
+3.04 LEASE TERM COMMENCEMENT DATE AND RENT RECONCILIATION (SMALL) (OCT 2021) ............................................................. 9
+3.05 AS-BUILT DRAWINGS (OCT 2021) INTENTIONALLY DELETED................................................................................................................ 9
+3.06 SEISMIC RETROFIT (OCT 2020) INTENTIONALLY DELETED ................................................................................................................... 9
+3.07 GOVERNMENT PROJECT MANAGEMENT SYSTEM (OCT 2023) ............................................................................................................. 9
+SECTION 4 TENANT IMPROVEMENT COMPONENTS ...................................................................................................................................... 10
+4.01 TENANT IMPROVEMENTS AND PRICING (SMALL) (SEP 2015) ............................................................................................................. 10
+4.02 FINISH SELECTIONS (SMALL) (SEP 2015) INTENTIONALLY DELETED................................................................................................ 10
+4.03 WINDOW COVERINGS (SMALL) (OCT 2020) INTENTIONALLY DELETED ............................................................................................ 10
+4.04 DOORS: SUITE ENTRY (SMALL) (OCT 2020) INTENTIONALLY DELETED........................................................................................... 10
+4.05 DOORS: INTERIOR (SMALL) (OCT 2019) INTENTIONALLY DELETED ................................................................................................. 10
+4.06 DOORS: HARDWARE (SMALL) (SEP 2015) INTENTIONALLY DELETED .............................................................................................. 10
+4.07 PARTITIONS: SUBDIVIDING (SMALL) (OCT 2022) INTENTIONALLY DELETED .................................................................................. 10
+4.08 PAINTING – TI (SMALL) (OCT 2020) ............................................................................................................................................................ 10
+4.09 FLOOR COVERINGS AND PERIMETERS (SMALL) (OCT 2019) INTENTIONALLY DELETED ............................................................. 10
+4.10 HEATING AND AIR CONDITIONING (SMALL) (OCT 2022) INTENTIONALLY DELETED ...................................................................... 10
+4.11 ELECTRICAL: DISTRIBUTION (SMALL) (SEP 2015) INTENTIONALLY DELETED ................................................................................ 10
+4.12 TELECOMMUNICATIONS: DISTRIBUTION AND EQUIPMENT (JUN 2012) INTENTIONALLY DELETED .......................................... 10
+4.13 TELECOMMUNICATIONS: LOCAL EXCHANGE ACCESS (AUG 2008) INTENTIONALLY DELETED ................................................. 10
+4.14 DATA DISTRIBUTION (OCT 2020) INTENTIONALLY DELETED............................................................................................................... 10
+4.15 ELECTRICAL, TELEPHONE, DATA FOR SYSTEMS FURNITURE (OCT 2022) INTENTIONALLY DELETED ..................................... 10
+LEASE NO. 36C25025L0008, PAGE 1 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+4.16 LIGHTING: INTERIOR AND PARKING – TI (SMALL) (SEP 2015) ............................................................................................................ 10
+SECTION 5 UTILITIES, SERVICES, AND OBLIGATIONS DURING THE LEASE TERM ................................................................................ 11
+5.01 PROVISION OF SERVICES, ACCESS, AND NORMAL HOURS (SMALL) (OCT 2020)........................................................................... 11
+5.02 UTILITIES (SMALL) (OCT 2022) .................................................................................................................................................................... 11
+5.03 HEATING AND AIR CONDITIONING (SMALL) (OCT 2024) INTENTIONALLY DELETED ...................................................................... 11
+5.04 OVERTIME HVAC USAGE (SMALL) (SEP 2016) INTENTIONALLY DELETED ....................................................................................... 11
+5.05 JANITORIAL SERVICES (SMALL) (OCT 2021)............................................................................................................................................ 11
+5.06 MAINTENANCE OF PROVIDED FINISHES (SMALL) (SEP 2015) INTENTIONALLY DELETED ............................................................ 11
+5.07 IDENTITY VERIFICATION OF PERSONNEL (OCT 2022) INTENTIONALLY DELETED ......................................................................... 11
+5.08 RANDOLPH-SHEPPARD COMPLIANCE (SMALL) (SEP 2015) INTENTIONALLY DELETED ................................................................ 11
+5.09 INDOOR AIR QUALITY (OCT 2024) INTENTIONALLY DELETED ............................................................................................................. 11
+5.10 RADON IN AIR (OCT 2023) INTENTIONALLY DELETED........................................................................................................................... 11
+5.11 RADON IN WATER (JUN 2012) INTENTIONALLY DELETED .................................................................................................................... 11
+5.12 HAZARDOUS MATERIALS (OCT 2023) ....................................................................................................................................................... 11
+5.13 MOLD AND WATER INTRUSION (OCT 2023) INTENTIONALLY DELETED ............................................................................................ 11
+5.14 OCCUPANT EMERGENCY PLANS (OCT 2020).......................................................................................................................................... 11
+SECTION 6 ADDITIONAL TERMS AND CONDITIONS ....................................................................................................................................... 13
+6.01 SECURITY REQUIREMENTS (SMALL) (OCT 2019) ................................................................................................................................... 13
+6.02 MODIFIED LEASE PARAGRAPHS (OCT 2016)........................................................................................................................................... 13
+6.03 RENTAL CONSIDERATION FOR SMALL LEASES (OCT 2019) ................................................................................................................ 13
+6.04 SWING SPACE - LEASE (OCT 2022) INTENTIONALLY DELETED .......................................................................................................... 13
+LEASE NO. 36C25025L0008, PAGE 2 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+SECTION 1 GENERAL TERMS, CONDITIONS, AND STANDARDS
+1.01 DEFINITIONS AND GENERAL TERMS (SMALL) (OCT 2023)
+Unless otherwise specifically noted, all terms and conditions set forth in this Lease shall be interpreted by reference to the
+following definitions, standards, and formulas:
+A. Real Property Terms.
+1. “ANSI/BOMA” is an acronym for American National Standards Institute/Building Owners and Managers
+Association.
+2. “ANSI/BOMA Occupant Area” or “ABOA” means the measurement standard (Z65.1-2017) provided by
+ANSI/BOMA for Occupant Area, which is “the total aggregated area used by an Occupant before Load Factors
+are applied, consisting of Tenant Area and Tenant Ancillary Area.” The Method A – Multiple Load Factor
+Method shall apply.
+3. “Common Area Factor (CAF)” means a conversion factor determined and applied by the building owner to
+determine the rentable square feet for the leased space. The CAF is expressed as a percentage of the
+difference between the amount of rentable square feet (SF) and ABOA SF, divided by the ABOA SF. The
+CAF shall be determined in accordance with the applicable ANSI/BOMA standard for the type of space to
+which the CAF shall apply.
+4. “Rentable Space or Rentable Square Feet (RSF)” means the area for which a tenant is charged rent. It is
+determined by the building owner and may vary by city or by building within the same city. Rentable space
+may include a share of common areas such as elevator lobbies, building corridors, and floor service areas.
+Floor service areas typically include restrooms, janitor rooms, telephone closets, electrical closets, and
+mechanical rooms. Rentable space does not include vertical building penetrations and their enclosing walls,
+such as stairs, elevator shafts, and vertical ducts. To determine the RSF, the ABOA SF is multiplied by the
+sum of one (1) plus the CAF, for each type of space included in the premises.
+5. “Space” means that part of the premises to which the Government has exclusive use, such as occupant area,
+or other types of space. Appurtenant areas (e.g., parking areas) to which the Government has rights under
+the lease are not included in the space.
+1.02 PUBLIC TRANSPORTATION (SMALL) (SEP 2015) INTENTIONALLY DELETED
+1.03 AUTHORIZED REPRESENTATIVES (OCT 2016)
+Signatories to this Lease shall have full authority to bind their respective principals with regard to all matters relating to
+this Lease. No other persons shall be understood to have any authority to bind their respective principals except to the
+extent that such authority may be explicitly delegated by notice to the other party, or to the extent that such authority is
+transferred by succession of interest. The Government shall have the right to substitute its Lease Contracting Officer
+(LCO) by notice without an express delegation by the prior LCO.
+1.04 WAIVER OF RESTORATION (OCT 2023)
+Lessor shall have no right to require the Government to restore the Premises upon expiration or earlier termination (full or
+partial) of the Lease, and waives all claims against the Government for:
+A. Waste, or,
+B. Damages or restoration arising from or related to:
+LEASE NO. 36C25025L0008, PAGE 3 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+1. The Government's normal and customary use of the Premises during the term of the Lease (including any
+extensions thereof), as well as
+2. Any initial or subsequent alteration to the Premises regardless of whether such alterations are performed by
+the Lessor or by the Government.
+At its sole option, the Government may abandon property in the Space following expiration or earlier termination (full or
+partial) of the Lease, in which case the property will become the property of the Lessor, and the Government will be
+relieved of any liability in connection therewith.
+1.05 NOVATION AND CHANGE OF OWNERSHIP (SMALL) (OCT 2016)
+Consistent with GSAM 570.115, in the event of a transfer of ownership of the leased premises or a change in the Lessor’s
+legal name, FAR 42.12 applies.
+1.06 ASBESTOS (SMALL) (OCT 2021)
+The leased space shall be free of all asbestos containing materials, except undamaged asbestos flooring in the space or
+undamaged boiler or pipe insulation outside the space, in which case an asbestos management program conforming to
+Environmental Protection Agency guidance shall be implemented. The space shall be free of other hazardous materials
+and in compliance with applicable Federal, State, and local environmental laws and regulations. If asbestos abatement
+work is to be performed in the Space after occupancy, the Lessor shall provide relocation and submit to the Government
+documentation that the abatement was done in accordance with OSHA, EPA, DOT, state, and local regulations and
+guidance and that final clearance for re-occupancy was achieved.
+1.07 ADJUSTMENT FOR VACANT PREMISES (SMALL) (OCT 2022) INTENTIONALLY DELETED
+1.08 ENTITY NAME (OCT 2023)
+Lessor may not use Federal agency name(s) and/or acronym(s), e.g., General Services Administration, GSA; Department
+of Veterans Affairs (VA, VHA, VBA) in the entity name that owns and/or leases the Space to VA.
+LEASE NO. 36C25025L0008, PAGE 4 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+SECTION 2 CONSTRUCTION STANDARDS AND SHELL COMPONENTS
+2.01 WORK PERFORMANCE (SMALL) (SEP 2015)
+All work in performance of this Lease shall be done by skilled and licensed workers or mechanics and shall be acceptable
+to the LCO.
+2.02 EXISTING FIT-OUT, SALVAGED, OR REUSED BUILDING MATERIAL (SMALL) (SEP 2015) INTENTIONALLY
+DELETED
+2.03 WOOD PRODUCTS (SMALL) (OCT 2023) INTENTIONALLY DELETED
+2.04 ADHESIVES AND SEALANTS (SMALL) (OCT 2020) INTENTIONALLY DELETED
+2.05 BUILDING SHELL REQUIREMENTS (SMALL) (OCT 2019) INTENTIONALLY DELETED
+2.06 RESPONSIBILITY OF THE LESSOR AND LESSOR’S ARCHITECT/ENGINEER (SMALL) (SEP 2015)
+The Lessor remains solely responsible for designing, constructing, operating, and maintaining the leased premises in full
+accordance with the requirements of the Lease. The Lessor shall, without additional compensation, correct or revise any
+errors or deficiencies in its designs, drawings, specifications, or other services, as noted by the Government’s review or
+otherwise.
+2.07 MEANS OF EGRESS (MAY 2015)
+A. Prior to occupancy, the Premises and any parking garage areas shall meet or will be upgraded to meet either the
+applicable egress requirements in the National Fire Protection Association, Life Safety Code (NFPA 101) or the
+International Code Council, International Building Code (IBC), each current as of the Lease Award Date, or use an
+alternative approach or method that achieves an equivalent level of safety deemed acceptable by the Government.
+B. INTENTIONALLY DELETED
+C. INTENTIONALLY DELETED
+D. INTENTIONALLY DELETED
+E. INTENTIONALLY DELETED
+2.08 AUTOMATIC FIRE SPRINKLER SYSTEM (OCT 2023)
+A. Any portion of the Space located below-grade, including parking garage areas, and all areas in a Building referred
+to as "hazardous areas" (defined in National Fire Protection Association (NFPA) 101) that are located within the
+entire Building (including non-Government areas) shall be protected by an automatic fire sprinkler system or an
+equivalent level of safety.
+B. For Buildings in which any portion of the Space on or above the sixth floor, then, at a minimum, the Building up to
+and including the highest floor of Government occupancy shall be protected by an automatic fire sprinkler system
+or an equivalent level of safety.
+C. For Buildings in which the Government occupies, either through this Lease or in combination with other Government
+Leases in the Building any portion of the Space is on or above the sixth floor, and lease of the Space will result,
+either individually or in combination with other Government Leases in the Building, in the Government leasing 35,000
+or more ANSI/BOMA Occupant Area SF of Space in the Building, then the entire Building shall be protected
+throughout by an automatic fire sprinkler system or an equivalent level of safety.
+LEASE NO. 36C25025L0008, PAGE 5 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+D. Automatic fire sprinkler system(s) shall be installed in accordance with the requirements of NFPA 13, Standard for
+the Installation of Sprinkler Systems that was in effect on the actual date of installation.
+E. Automatic fire sprinkler system(s) shall be maintained in accordance with the requirements of NFPA 25, Standard
+for the Inspection, Testing, and Maintenance of Water-based Fire Protection Systems (current as of the Lease
+Award Date).
+F. "Equivalent level of safety" means an alternative design or system (which may include automatic fire sprinkler
+systems), based upon fire protection engineering analysis, which achieves a level of safety equal to or greater than
+that provided by automatic fire sprinkler systems.
+2.09 FIRE ALARM SYSTEM (SEP 2013)
+A. A Building-wide fire alarm system shall be installed in the entire Building in which any portion of the Space is located
+on the 3rd floor or higher.
+B. The fire alarm system shall be installed in accordance with the requirements of NFPA 72, National Fire Alarm and
+Signaling Code, that was in effect on the actual date of installation.
+C. The fire alarm system shall be maintained in accordance with the requirements of NFPA 72, National Fire Alarm
+and Signaling Code (current as of the Lease Award Date).
+D. The fire alarm system shall transmit all fire alarm signals to the local fire department via any of the following means:
+directly to the local fire department, to the (911) public communications center, to a central station, to a remote
+supervising station, or to a proprietary supervising station.
+E. If the Building’s fire alarm control unit is over 25 years old as of the date of award of this Lease, Lessor shall install
+a new fire alarm system in accordance with the requirements of NFPA 72, National Fire Alarm and Signaling Code
+(current as of the Lease Award Date), prior to Government acceptance and occupancy of the Space.
+2.10 ENERGY INDEPENDENCE AND SECURITY ACT (SMALL) (SEP 2015)
+The Lessor shall either earn the ENERGY STAR® Label or complete all cost-effective energy efficiency and conservation
+improvements, agreed to by Lessor prior to acceptance of the Space (or not later than one year after the Lease Award
+Date of a succeeding or superseding Lease).
+2.11 ELEVATORS (SMALL) (OCT 2020) INTENTIONALLY DELETED
+2.12 DEMOLITION (JUN 2012) INTENTIONALLY DELETED
+2.13 ACCESSIBILITY (OCT 2024)
+The leased Space, and areas serving the leased Space shall be accessible to persons with disabilities in accordance with
+the Architectural Barriers Act Accessibility Standard (ABAAS), Appendices C and D to 36 CFR Part 1191 (ABA Chapters
+1 and 2, and Chapters 3 through 10) and 36 CFR 1190 to the extent applicable. To the extent the standards referenced
+in the preceding sentence conflicts with local accessibility requirements, the more stringent shall apply.
+2.14 CEILINGS (SMALL) (OCT 2019) INTENTIONALLY DELETED
+2.15 EXTERIOR AND COMMON AREA DOORS AND HARDWARE (SEP 2013) INTENTIONALLY DELETED
+2.16 WINDOWS (SMALL) (OCT 2020) INTENTIONALLY DELETED
+2.17 PARTITIONS: PERMANENT (SMALL) (OCT 2019) INTENTIONALLY DELETED
+2.18 INSULATION: THERMAL, ACOUSTIC, AND HVAC (SMALL) (OCT 2020) INTENTIONALLY DELETED
+LEASE NO. 36C25025L0008, PAGE 6 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+2.19 PAINTING – SHELL (SMALL) (OCT 2020)
+The Lessor shall bear the expense for all painting associated with the Building shell, including all common areas. Exterior
+perimeter walls and interior core walls within the Space shall be spackled and prime painted. If any Building shell areas
+are already painted prior to TIs, then the Lessor shall repaint, at the Lessor’s expense, as necessary during TIs.
+2.20 FLOORS AND FLOOR LOAD (SMALL) (OCT 2019) INTENTIONALLY DELETED
+2.21 MECHANICAL, ELECTRICAL, PLUMBING: GENERAL (SMALL) (SEP 2015) INTENTIONALLY DELETED
+2.22 DRINKING FOUNTAINS (OCT 2023) INTENTIONALLY DELETED
+2.23 RESTROOMS (SMALL) (OCT 2022) INTENTIONALLY DELETED
+2.24 HEATING, VENTILATION, AND AIR CONDITIONING – SHELL (SMALL) (OCT 2022) INTENTIONALLY
+DELETED
+2.25 TELECOMMUNICATIONS: DISTRIBUTION AND EQUIPMENT (SMALL) (SEP 2015) INTENTIONALLY
+DELETED
+2.26 TELECOMMUNICATIONS: LOCAL EXCHANGE ACCESS (SMALL) (OCT 2020) INTENTIONALLY DELETED
+2.27 LIGHTING: INTERIOR AND PARKING – SHELL (SMALL) (OCT 2022)
+Note. for pricing estimating purposes, fixtures will be installed at the average ratio of 1 fixture per 80 ABOA sf.
+A. Interior Fixtures. Light fixtures (and associated ballasts or drivers) shall be installed to match the other luminaries in
+the Space as either ceiling grid or pendant mounted for an open-office plan. Ceiling grid fixtures shall be either 2’
+wide by 4’ long or 2’ wide by 2’ long. Lessor shall provide, as part of Shell Rent, a minimum overall lighting fixture
+efficiency of 85 percent. Lamps shall maintain a uniform color level throughout the lease term.
+B. Lighting Levels. Fixtures shall have a minimum of two tubes and shall provide 50 foot-candles at desktop level (30”
+above finished floor) with a maximum uniformity ratio of 1.5:1. Lessor shall provide, as part of Shell Rent, 10 average
+foot-candles in all other Building areas within the Premises with a uniformity ratio of 4:1. Emergency egress lighting
+levels shall be provided in accordance with the local applicable building codes (but not less than 1 foot-candle,
+measured at the floor) by either an onsite emergency generator or fixture mounted battery packs.
+C. Power Density. The maximum fixture power density shall not exceed 1.4 watts per ABOA SF.
+D. Building Perimeter. Exterior parking areas, vehicle driveways, pedestrian walks, and the Building perimeter lighting
+levels shall be designed per Illuminating Engineering Society (IES) standards. Provide 5 foot-candles for doorway
+areas, 3 foot-candles for transition areas and at least 1 foot-candle at the surface throughout the parking lot. Parking
+lot fixtures shall provide a maximum to minimum uniformity ratio of 15:1 and a maximum to average uniformity ratio
+of 4:1.
+E. Parking Structures. The minimum illuminance level for parking structures is 5 foot-candles as measured on the floor
+with a uniformity ratio of 10:1.
+F. Exterior Power Backup. Exterior egress, walkway, parking lot, and parking structure lighting must have emergency
+power backup to provide for safe evacuation of the Building.
+G. Video Surveillance System (VSS). Lighting shall be provided in such a manner to adequately support VSS
+operations, and not limit or preclude adequate fields of view.
+LEASE NO. 36C25025L0008, PAGE 7 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+2.28 INDOOR AIR QUALITY DURING CONSTRUCTION (SMALL) (OCT 2021) INTENTIONALLY DELETED
+2.29 NATIONAL HISTORIC PRESERVATION ACT REQUIREMENTS - LEASE (SMALL) (SEP 2015)
+INTENTIONALLY DELETED
+LEASE NO. 36C25025L0008, PAGE 8 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+SECTION 3 DESIGN, CONSTRUCTION, AND POST AWARD ACTIVITIES
+3.01 SCHEDULE FOR COMPLETION OF SPACE (SMALL) (OCT 2020) INTENTIONALLY DELETED
+3.02 ACCESS BY THE GOVERNMENT PRIOR TO ACCEPTANCE (SMALL) (OCT 2020)
+Subject to the Lessor's permission, which shall not be unreasonably withheld, the Government or its contractors shall have
+access to the Premises prior to acceptance of the Space to prepare the Space for occupancy. If the work to be completed
+by the Government is a prerequisite for the issuance of a Certificate of Occupancy, or its equivalent, the Government shall
+be entitled to at least 10 Working Days to complete work by its own contractors.
+3.03 ACCEPTANCE OF SPACE AND CERTIFICATE OF OCCUPANCY (SMALL) (OCT 2021)
+A. The Government shall accept the Space only if the construction of Building shell and TIs, as applicable, conforming
+to this Lease and any layout drawings is substantially complete, as determined by the Lease Contracting Officer,
+and a Certificate of Occupancy (C of O) has been issued. The Space shall be considered substantially complete
+only if the Space may be used for its intended purpose and completion of remaining work will not interfere
+unreasonably with the Government's enjoyment of the Space.
+B. The Lessor shall provide a valid C of O, issued by the local jurisdiction, for the intended use of the Government. If
+the local jurisdiction does not issue C of O’s or if the C of O is not available, the Lessor may satisfy this condition by
+providing a report prepared by a licensed fire protection engineer that indicates the Space and Building are compliant
+with all applicable local codes and ordinances and all fire protection and life safety-related requirements of this
+Lease.
+A. If applicable, upon acceptance of the Space, the Government will issue lump sum payment to the Lessor after
+substantial completion, in accordance with invoicing procedures outlined under any lease amendment(s) authorizing
+such lump sum payment. The Government shall not issue this payment in increments or as partial payments.
+3.04 LEASE TERM COMMENCEMENT DATE AND RENT RECONCILIATION (SMALL) (OCT 2021)
+The Lease Term Commencement Date, and final Space verification, shall be memorialized by Lease Amendment.
+3.05 AS-BUILT DRAWINGS (OCT 2021) INTENTIONALLY DELETED
+3.06 SEISMIC RETROFIT (OCT 2020) INTENTIONALLY DELETED
+3.07 GOVERNMENT PROJECT MANAGEMENT SYSTEM (OCT 2023)
+The Government may require the Lessor to use the Government’s project management system for post-award and post-
+occupancy activities. This includes, but is not limited to, design submittals (DIDs, CD, as-builts), schedule submissions,
+pricing proposals, requests for information (RFI) that are directed toward the Government, and Green Lease Submittals,
+such as reuse plans, commissioning plans, and product data sheets. Licensing costs and access to the system are the
+responsibility of the Government.
+LEASE NO. 36C25025L0008, PAGE 9 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+SECTION 4 TENANT IMPROVEMENT COMPONENTS
+4.01 TENANT IMPROVEMENTS AND PRICING (SMALL) (SEP 2015)
+A. The Lease is a fully serviced, turnkey Lease with a fixed rent that covers all Lessor costs, including all demolition,
+shell upgrades, TIs, insurance, operating costs, taxes, parking, and security upgrades. Rent will be based upon a
+proposed rental rate per parking space, limited by the offered rate and the parking spaces solicited under this RLP.
+B. INTENTIONALLY DELETED
+C. The Government shall have the right to make lump sum payments for any or all TI work.
+4.02 FINISH SELECTIONS (SMALL) (SEP 2015) INTENTIONALLY DELETED
+4.03 WINDOW COVERINGS (SMALL) (OCT 2020) INTENTIONALLY DELETED
+4.04 DOORS: SUITE ENTRY (SMALL) (OCT 2020) INTENTIONALLY DELETED
+4.05 DOORS: INTERIOR (SMALL) (OCT 2019) INTENTIONALLY DELETED
+4.06 DOORS: HARDWARE (SMALL) (SEP 2015) INTENTIONALLY DELETED
+4.07 PARTITIONS: SUBDIVIDING (SMALL) (OCT 2022) INTENTIONALLY DELETED
+4.08 PAINTING – TI (SMALL) (OCT 2020)
+Prior to acceptance, all surfaces within the Space which are designated by GSA for painting shall be newly finished in
+colors and type of paint acceptable to the Government.
+4.09 FLOOR COVERINGS AND PERIMETERS (SMALL) (OCT 2019) INTENTIONALLY DELETED
+4.10 HEATING AND AIR CONDITIONING (SMALL) (OCT 2022) INTENTIONALLY DELETED
+4.11 ELECTRICAL: DISTRIBUTION (SMALL) (SEP 2015) INTENTIONALLY DELETED
+4.12 TELECOMMUNICATIONS: DISTRIBUTION AND EQUIPMENT (JUN 2012) INTENTIONALLY DELETED
+4.13 TELECOMMUNICATIONS: LOCAL EXCHANGE ACCESS (AUG 2008) INTENTIONALLY DELETED
+4.14 DATA DISTRIBUTION (OCT 2020) INTENTIONALLY DELETED
+4.15 ELECTRICAL, TELEPHONE, DATA FOR SYSTEMS FURNITURE (OCT 2022) INTENTIONALLY DELETED
+4.16 LIGHTING: INTERIOR AND PARKING – TI (SMALL) (SEP 2015)
+FIXTURES: Any additional lighting fixtures and/or components required beyond what would have been provided under
+the paragraph, “Lighting: Interior and Parking – Shell (SMALL)” are part of the TIs.
+LEASE NO. 36C25025L0008, PAGE 10 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+SECTION 5 UTILITIES, SERVICES, AND OBLIGATIONS DURING THE LEASE TERM
+5.01 PROVISION OF SERVICES, ACCESS, AND NORMAL HOURS (SMALL) (OCT 2020)
+The Government’s normal hours of operations are established as 24 Hours Daily, Monday through Friday, with the
+inclusive of Federal holidays. Services, maintenance, and utilities shall be provided during these hours. The Government
+shall have access to the Premises and its Appurtenant Areas at all times without additional payment, including the use,
+during other than normal hours, of necessary services and utilities such as elevators, restrooms, lights, and electric power.
+Cleaning shall be performed during normal hours.
+5.02 UTILITIES (SMALL) (OCT 2022)
+The Lessor is responsible for providing all utilities necessary for base Building and tenant operations as part of the rental
+consideration.
+5.03 HEATING AND AIR CONDITIONING (SMALL) (OCT 2024) INTENTIONALLY DELETED
+5.04 OVERTIME HVAC USAGE (SMALL) (SEP 2016) INTENTIONALLY DELETED
+5.05 JANITORIAL SERVICES (SMALL) (OCT 2021)
+The Lessor shall maintain the Premises and all areas of the Property to which the Government has routine access for the
+term of the Lease.
+5.06 MAINTENANCE OF PROVIDED FINISHES (SMALL) (SEP 2015) INTENTIONALLY DELETED
+5.07 IDENTITY VERIFICATION OF PERSONNEL (OCT 2022) INTENTIONALLY DELETED
+5.08 RANDOLPH-SHEPPARD COMPLIANCE (SMALL) (SEP 2015) INTENTIONALLY DELETED
+5.09 INDOOR AIR QUALITY (OCT 2024) INTENTIONALLY DELETED
+5.10 RADON IN AIR (OCT 2023) INTENTIONALLY DELETED
+5.11 RADON IN WATER (JUN 2012) INTENTIONALLY DELETED
+5.12 HAZARDOUS MATERIALS (OCT 2023)
+A. The leased Space shall be free of hazardous materials, hazardous substances, and hazardous wastes, as defined
+by and according to applicable Federal, state, and local environmental regulations. Should there be reason to
+suspect otherwise, the Government reserves the right, at Lessor’s expense, to require documentation or testing to
+confirm that the Space is free of all hazardous materials, substances, and wastes.
+B. Lessor shall, to the extent of its knowledge, notify Government of the introduction of any hazardous materials,
+substances, and wastes onto the Property by Lessor or others, including but not limited to, co-tenants occupying
+Space in the Building.
+A. Lessors are encouraged to prioritize products used in the build-out of Space that do not contain Per- and
+Polyfluoroalkyl Substances (PFAS). To view the current list of EPA standards and ecolabels that either restrict or
+eliminate the use of PFAS in certified products, visit HTTPS://WWW.EPA.GOV/GREENERPRODUCTS/.
+5.13 MOLD AND WATER INTRUSION (OCT 2023) INTENTIONALLY DELETED
+5.14 OCCUPANT EMERGENCY PLANS (OCT 2020)
+LEASE NO. 36C25025L0008, PAGE 11 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+The Lessor is required to cooperate, participate, and comply with the development and implementation of the
+Government’s Occupant Emergency Plan (OEP) and a supplemental Shelter-in Place (SIP) Plan. Periodically, the
+Government may request that the Lessor assist in reviewing and revising its OEP and SIP. The Plan, among other things,
+will include evacuation procedures and an annual emergency evacuation drill, emergency shutdown of air intake
+procedures, and emergency notification procedures for the Lessor’s Building engineer or manager, Building security, local
+emergency personnel, and Government agency personnel.
+LEASE NO. 36C25025L0008, PAGE 12 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+SECTION 6 ADDITIONAL TERMS AND CONDITIONS
+6.01 SECURITY REQUIREMENTS (SMALL) (OCT 2019)
+The Lessor agrees to the requirements of Security Level I attached to this Lease. Level I Security is included in shell rent.
+6.02 MODIFIED LEASE PARAGRAPHS (OCT 2016)
+The following paragraphs have been modified in this Lease:
+1.01
+2.27
+3.04
+4.01
+5.01
+5.05
+6.03 RENTAL CONSIDERATION FOR SMALL LEASES (OCT 2019)
+Rent shall be paid by electronic funds transfer (EFT) using the EFT information contained in the System for Award
+Management (SAM). In the event the EFT information changes, the Lessor shall be responsible for providing the updated
+information to SAM. Failure by the Lessor to maintain an active registration in SAM may result in delay of rental payments
+until such time as the SAM registration is activated. Rent shall be inclusive of all costs incurred by the Lessor for the
+construction of Building shell, Tenant Improvements (TIs) specified in the Lease, all taxes of any kind, and all operating
+costs. Unless a separate rate is specified, rights to parking areas will be deemed included in the rent.
+6.04 SWING SPACE - LEASE (OCT 2022) INTENTIONALLY DELETED
+LEASE NO. 36C25025L0008, PAGE 13 LESSOR: ________ GOVERNMENT: ________ SUPPLEMENTAL LEASE
+REQUIREMENTS
+REV (10/2024)
+SAGINAW PARKING LOT
+LEASE 36C25025L0008
+Rentable Spaces Firm Term Firm Term Firm Term Firm Term Firm Term Firm Term Firm Term
+Start-Acceptance of
+Oct 1, 2025-Sept Oct 1, 2026-Sept Oct 1, 2027-Sept Oct 1, 2028-Sept Oct 1, 2029-Sept
+80 Space April 1, 2025-
+30, 2026 30, 2027 30, 2028 30, 2029 30,2030
+Sept 30,2025
+Parking Year 1 - 6 Months Year 1 Year 2 Year 3 Year 4 Year 5
+Shell Rent1 w/BSAC $ 3.65 $ 1,752.00 $ 3,504.00 $ 3,504.00 $ 3,504.00 $ 3,504.00 $ 3,504.00
+Monthly Amount $ 292.00 $ 292.00 $ 292.00 $ 292.00 $ 292.00 $ 292.00 $ 292.00
+Total Annual Rent $ 1,752.00 $ 3,504.00 $ 3,504.00 $ 3,504.00 $ 3,504.00 $ 3,504.00
+Firm Term Firm Term Firm Term Firm Term Firm Term Firm Term
+Oct 1, 2030-Sept Oct 1, 2031-Sept Oct 1, 2032-Sept Oct 1, 2033-Sept Oct 1, 2034-Sept
+30, 2031 30, 2032 30, 2033 30, 2034 30 2035
+Option Period Year 6 Year 7 Year 8 Year 9 Year 10
+Shell Rent1 w/BSAC $ 4.69 $ 4,502.40 $ 4,502.40 $ 4,502.40 $ 4,502.40 $ 4,502.40
+Monthly Amount $ 375.20 $ - $ 375.20 $ 375.20 $ 375.20 $ 375.20 $ 750.40
+Total Annual Rent $ - $ 4,502.40 $ 4,502.40 $ 4,502.40 $ 4,502.40 $ 4,502.40
+Firm Term Firm Term Firm Term Firm Term Firm Term Firm Term
+Oct 1, 2035-Sept Oct 1, 2036-Sept Oct 1, 2037-Sept Oct 1, 2038-Sept Oct 1, 2039-Sept
+30, 2036 30, 2037 30, 2038 30, 2039 30 2040
+Option Period Year 11 Year 12 Year 13 Year 14 Year 15
+Shell Rent1 w/BSAC $ 5.73 $ 5,500.80 $ 5,500.80 $ 5,500.80 $ 5,500.80 $ 5,500.80
+Operating Costs2
+Monthly Amount $ 458.40 $ - $ 458.40 $ 458.40 $ 458.40 $ 458.40 $ 916.80
+Total Annual Rent $ - $ 5,500.80 $ 5,500.80 $ 5,500.80 $ 5,500.80 $ 5,500.80
+Firm Term Firm Term Firm Term Firm Term Firm Term Firm Term
+Oct 1, 2040-Sept Oct 1, 2041-Sept Oct 1, 2042-Sept Oct 1, 2044-Sept Oct 1, 2044-Mar
+30, 2041 30, 2042 30, 2043 30, 2044 31 2045
+Option Period Year 16 Year 17 Year 18 Year 19 End Year
+Shell Rent1 w/BSAC $ 6.77 $ 6,499.20 $ 6,499.20 $ 6,499.20 $ 6,499.20 $ 3,249.60
+Operating Costs2
+Monthly Amount $ 541.60 $ - $ 541.60 $ 541.60 $ 541.60 $ 541.60 $ 541.60
+Total Annual Rent $ - $ 6,499.20 $ 6,499.20 $ 6,499.20 $ 6,499.20 $ 3,249.60
+Saginaw Parking Lot – 1500 Weiss Road, Saginaw MI
+EXHIBIT D
+GENERAL CLAUSES
+(Acquisition of Leasehold Interests in Real Property for Leases at or Below the Simplified Lease
+Acquisition Threshold - SLAT)
+CLAUSE NO. 48 CFR REF. CLAUSE TITLE
+1 GSAR 552.270-4 DEFINITIONS (DEVIATION)
+2 GSAR 552.270-6 MAINTENANCE OF THE PROPERTY, RIGHT TO INSPECT
+(DEVIATION)
+3 GSAR 552.270-7 FIRE AND CASUALTY DAMAGE (DEVIATION)
+4 GSAR 552.270-9 INSPECTION – RIGHT OF ENTRY
+5 GSAR 552.270-10 DEFAULT BY LESSOR (DEVIATION)
+6 GSAR 552.270-20 PAYMENT (DEVIATION)
+7 GSAR 552.270-27 INTEGRATED AGREEMENT (DEVIATION)
+8 GSAR 552.270-14 CHANGES (DEVIATION)
+9 GSAR 552.270-8 COMPLIANCE WITH APPLICABLE LAW (DEVIATION)
+10 FAR 52.204-21 BASIC SAFEGUARDING OF COVERED CONTRACTOR
+INFORMATION SYSTEMS
+11 FAR 52.252-2 CLAUSES INCORPORATED BY REFERENCE
+12 Clauses incorporated by reference include:
+FAR 52.204-2 SECURITY REQUIREMENTS
+FAR 52.204-9 PERSONAL IDENTITY VERIFICATION OF CONTRACTOR
+PERSONNEL
+FAR 52.204-10 REPORTING EXECUTIVE COMPENSATION AND FIRST TIER
+SUBCONTRACT AWARDS
+FAR 52.204-13 SYSTEM FOR AWARD MANAGEMENT MAINTENANCE
+FAR 52.204-19 INCORPORATION BY REFERENCE OF REPRESENTATIONS
+AND CERTIFICATIONS
+FAR 52.204-23 PROHIBITION ON CONTRACTING FOR HARDWARE,
+SOFTWARE, AND SERVICES DEVELOPED OR PROVIDED BY
+KASPERSKY LAB AND OTHER COVERED ENTITIES
+FAR 52.204-25 PROHIBITION ON CONTRACTING FOR CERTAIN
+TELECOMMUNICATIONS AND VIDEO SURVEILLANCE
+SERVICES OR EQUIPMENT
+FAR 52.204-27 PROHIBITION ON A BYTEDANCE COVERED APPLICATION
+FAR 52.209-6 PROTECTING THE GOVERNMENT’S INTEREST WHEN
+SUBCONTRACTING WITH CONTRACTORS DEBARRED,
+SUSPENDED, OR PROPOSED FOR DEBARMENT
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 1
+EXHIBIT D
+FAR 52.215-10 PRICE REDUCTION FOR DEFECTIVE CERTIFIED COST OR
+PRICING DATA
+FAR 52.215-12 SUBCONTRACTOR CERTIFIED COST OR PRICING DATA
+FAR 52.219-4 NOTICE OF PRICE EVALUATION PREFERENCE FOR
+HUBZONE SMALL BUSINESS CONCERNS
+FAR 52.219-9 SMALL BUSINESS SUBCONTRACTING PLAN
+FAR 52.219-16 LIQUIDATED DAMAGES – SUBCONTRACTING PLAN
+FAR 52.219-28 POST-AWARD SMALL BUSINESS REREPRESENTATION
+FAR 52.222-21 PROHIBITION OF SEGREGATED FACILITIES
+FAR 52.222-26 EQUAL OPPORTUNITY
+FAR 52.222-35 EQUAL OPPORTUNITY FOR VETERANS
+FAR 52.222-36 EQUAL OPPORTUNITY FOR WORKERS WITH DISABILITIES
+FAR 52.222-37 EMPLOYMENT REPORTS ON VETERANS
+FAR 52.223-6 DRUG-FREE WORKPLACE
+FAR 52.232-23 ASSIGNMENT OF CLAIMS
+FAR 52.232-33 PAYMENT BY ELECTRONIC FUNDS TRANSFER SYSTEM –
+SYSTEM FOR AWARD MANAGEMENT
+FAR 52.233-1 DISPUTES
+GSAR 552.204-9 PERSONAL IDENTITY VERIFICATION REQUIREMENTS
+GSAR 552.270-12 ALTERATIONS
+GSAR 552.270-16 ADJUSTMENT FOR VACANT PREMISES
+GSAR 552.270-25 SUBSTITUTION OF TENANT AGENCY
+GSAR 552.270-28 MUTUALITY OF OBLIGATION
+GSAR 552.270-31 PROMPT PAYMENT
+The information collection requirements contained in this solicitation/contract, that are not required by regulation, have
+been approved by the Office of Management and Budget pursuant to the Paperwork Reduction Act and assigned the
+OMB Control No. 3090-0086.
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 2
+EXHIBIT D
+1. GSAR 552.270-4 DEFINITIONS (AUG 2023) (DEVIATION)
+When a solicitation or contract uses a word or term that is defined in the Federal Acquisition Regulation
+(FAR) or General Services Acquisition Manual (GSAM), the word or term has the same meaning as the
+definition in FAR 2.101, GSAM 502.101, or GSAM 570.102 in effect at the time the solicitation was issued
+or lease contract was awarded, unless -
+(a) The solicitation, amended solicitation, or lease contract provides a different definition
+(e.g., R100, L100);
+(b) An applicable part, subpart, or section of the FAR or GSAM provides a different meaning.
+2. GSAR 552.270-6 MAINTENANCE OF THE PROPERTY, RIGHT TO INSPECT (SEP 2022)
+(DEVIATION)
+The Lessor shall maintain the property, including the building, building systems, and all equipment, fixtures,
+and appurtenances furnished by the Lessor under this lease, in good repair and tenantable condition so
+that they are suitable in appearance and capable of supplying such heat, air conditioning, light, ventilation,
+safety systems, access and other things to the premises, without reasonably preventable or recurring
+disruption, as is required for the Government’s access to, occupancy, possession, use and enjoyment of
+the premises as provided in this lease.
+(a) For the purpose of so maintaining the premises, the Lessor may at reasonable times enter the
+premises with the approval of the authorized Government representative in charge.
+(b) Upon request of the Lease Contracting Officer (LCO), the Lessor shall provide written
+documentation that building systems have been properly maintained, tested, and are
+operational within manufacturer's warranted operating standards.
+(c) The Lessor shall maintain the premises in a safe and healthful condition according to applicable
+OSHA standards and all other requirements of this lease, including standards governing indoor
+air quality, existence of mold and other biological hazards, presence of hazardous materials,
+etc.
+(d) The Government shall have the right, at any time after the lease award date and during the
+term of the lease, to inspect all areas of the property to which access is necessary for the
+purpose of determining the Lessor’s compliance with this clause.
+3. GSAR 552.270-7 FIRE AND CASUALTY DAMAGE (SEP 2022) (DEVIATION)
+(a) If the building in which the premises are located is totally destroyed or damaged by fire or other
+casualty, this lease shall immediately terminate.
+(b) If the building in which the premises are located are only partially destroyed or damaged, so as
+to render the premises untenantable, or not usable for their intended purpose:
+(1) The Lessor shall have the option to elect to repair and restore the premises or
+terminate the lease.
+(2) Unless otherwise approved by the Lease Contracting Officer, the Lessor shall be
+permitted a reasonable amount of time, not to exceed 270 days from the event of
+destruction or damage, to repair or restore the premises, provided that the Lessor
+submits to the Government a reasonable schedule for repair of the premises within 60
+days of the event of destruction or damage.
+(i) If the Lessor fails to timely submit a reasonable schedule for completing the
+work, the Government may elect to terminate the lease effective as of the date
+of the event of destruction or damage.
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 3
+EXHIBIT D
+(ii) If the Lessor elects to repair or restore the premises, but fails to repair or
+restore the premises within 270 days from the event of destruction or damage,
+or fails to diligently pursue such repairs or restoration so as to render timely
+completion commercially impracticable, the Government may terminate the
+lease effective as of the date of the destruction or damage.
+(3) During the time that the premises are unoccupied, rent shall be abated. Termination of
+the lease by either party under this clause shall not give rise to liability for either party.
+(4) Nothing in this lease shall be construed as relieving Lessor from liability for damage to
+or destruction of property of the United States of America caused by the willful or
+negligent act or omission of Lessor.
+4. GSAR 552.270-9 INSPECTION – RIGHT OF ENTRY (SEP 1999)
+a) At any time and from time to time after receipt of an offer (until the same has been duly
+withdrawn or rejected), after acceptance thereof and during the term, the agents, employees
+and contractors of the Government may, upon reasonable prior notice to Offeror or Lessor,
+enter upon the offered premises or the premises, and all other areas of the building access to
+which is necessary to accomplish the purposes of entry, to determine the potential or actual
+compliance by the Offeror or Lessor with the requirements of the solicitation or this lease, which
+purposes shall include, but not be limited to:
+(1) Inspecting, sampling and analyzing suspected asbestos-containing materials and air
+monitoring for asbestos fibers;
+(2) Inspecting the heating, ventilation and air conditioning system, maintenance records,
+and mechanical rooms for the offered premises or the premises;
+(3) Inspecting for any leaks, spills, or other potentially hazardous conditions which may
+involve tenant exposure to hazardous or toxic substances; and
+(4) Inspecting for any current or past hazardous waste operations, to ensure that
+appropriate mitigative actions were taken to alleviate any environmentally unsound
+activities in accordance with Federal, State and local law.
+b) Nothing in this clause shall be construed to create a Government duty to inspect for toxic
+materials or to impose a higher standard of care on the Government than on other lessees.
+The purpose of this clause is to promote the ease with which the Government may inspect the
+building. Nothing in this clause shall act to relieve the Lessor of any duty to inspect or liability
+which might arise as a result of Lessor’s failure to inspect for or correct a hazardous condition.
+5. GSAR 552.270-10 DEFAULT BY LESSOR (JUL 2023) (DEVIATION)
+Occurrence of the following constitutes default by the Lessor and gives rise to the following rights
+and remedies of the Government:
+(a) Prior to acceptance of the space. Failure by the Lessor to perform diligently any obligations
+required for acceptance of the space or other required improvements within the times specified,
+other than due to an excusable delay, shall constitute a default by the Lessor. Subject to
+provision of notice of default to the Lessor, and provision of a reasonable opportunity for the
+Lessor to cure its default, the Government may, in its sole discretion, terminate the lease on
+account of the Lessor's default.
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 4
+EXHIBIT D
+(b) After acceptance of the space. Failure by the Lessor to perform any service, to provide any
+item, or satisfy any requirement of this lease, other than due to an excusable delay, constitutes
+a default by the Lessor. Subject to provision of notice of default to the Lessor, and provision of
+a reasonable opportunity for the Lessor to cure its default, the Government may, in its sole
+discretion, take one or more of the following actions:
+(1) Perform the service, provide the item, or obtain satisfaction of the requirement by its
+own employees or contractors. If the Government elects to take such action, the
+Government may deduct from rental payments its costs, including administrative costs,
+incurred in connection with taking the action;
+(2) Reduce the rent by an amount reasonably calculated to approximate the cost or value
+of the service not performed, item not provided, or requirement not satisfied, such
+reduction effective as of the date of the commencement of the default condition. If
+default renders the leased premises untenable, the reduction of rent may be calculated
+as the prorated portion of the monthly rent represented by all such days the leased
+premises is untenantable;
+(3) Terminate the lease if:
+(i) The Lessor's default persists notwithstanding provision of notice and reasonable
+opportunity to cure by the Government, or
+(ii) The Lessor fails to take such actions as are necessary to prevent the recurrence
+of default conditions, and such conditions substantially impair the safe and
+healthful occupancy of the premises, or render the premises unusable for its
+intended purposes.
+(c) Damages. The Lessor and the Lessor sureties, if any, are jointly and severally liable for any
+damages to the Government resulting from default or termination, as provided in this clause.
+(1) Damages include all costs associated with the replacement lease(s), which include but
+are not limited to the following: the Government’s aggregate rent, estimated real estate
+taxes, operating costs, administrative costs, or other reprocurement costs.
+(2) If the Government procures replacement premises for a term (including all option
+terms) in excess of this lease term, the Lessor is not liable for excess Government rent
+or adjustments during such excess lease term.
+(3) Damages to which the Government is entitled to under this clause are due and payable
+thirty (30) days following the date the Lessor receives notice from the Contracting
+Officer specifying such damages.
+(d) Excusable delays.
+(1) The Government shall not terminate this lease under this clause nor charge the Lessor
+with damages under this clause, if:
+(i) the delay in substantially completing any work or performing any services arises
+from excusable delays, and
+(ii) the Lessor, within ten (10) days from the beginning of any such delay (unless
+extended in writing by the Contracting Officer) provides notice to the Contracting
+Officer of the causes of delay.
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 5
+EXHIBIT D
+(2) The Contracting Officer shall ascertain the facts and the extent of delay. If the facts
+warrant, the Contracting Officer shall extend the delivery date commensurate with the
+delay at no additional costs to the Government. A time extension is the sole remedy of
+the Lessor.
+(e) No deduction from rent, termination of lease, or any other action pursuant to this clause will
+constitute a default by the Government under this lease.
+(f) The rights and remedies specified in this clause are in addition to any and all remedies to which
+the Government may be entitled as a matter of law.
+6. GSAR 552.270-20 PAYMENT (AUG 2023) (DEVIATION)
+(a) When space is offered and accepted, ANSI/BOMA Occupant Area (ABOA) square footage
+delivered will be confirmed by either:
+(1) The Government’s measurement of plans submitted by the successful offeror as approved by
+the Government, and an inspection of the space to verify that the delivered space conforms with such plans;
+or
+(2) A mutual on-site measurement of the space if the Contracting Officer determines it necessary.
+(b) The Government will not pay for space in excess of the amount of ABOA square footage stated in
+the lease.
+(c) If the amount of ABOA square footage delivered is less than the amount agreed to in the lease,
+the lease will be modified to reflect the amount of ABOA space delivered and the annual rental will be
+adjusted as follows:
+ABOA square feet not delivered multiplied by one plus the common area factor (CAF), multiplied by the
+rate per rentable square foot (RSF). That is:
+(d) Common Area Factor (CAF). The CAF is expressed as a percentage of the difference between the
+amount of rentable square feet (SF) and ABOA SF, divided by the ABOA SF. For example 11,500 RSF
+and 10,000 ABOA SF will have a CAF of 15% (11,500 RSF-10,000 ABOA SF)/10,000 ABOA SF.
+(e) Rentable Square Footage (RSF). The RSF is calculated using the following formula for each type
+of space (e.g., office, warehouse, etc.) included in the premises: ABOA SF of Space x (1 + CAF) = RSF.
+7. GSAR 552.270-27 INTEGRATED AGREEMENT (SEP 2022) (DEVIATION)
+This lease, upon execution, contains the entire agreement of the parties and no prior written or oral
+agreement, express or implied, shall be admissible to contradict the provisions of the lease. Except
+as expressly attached to and made a part of the lease, neither the request for lease proposals nor
+any pre-award communications by either party shall be incorporated in the lease.
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 6
+EXHIBIT D
+8. GSAR 552.270-14 CHANGES (SEP 2022) (DEVIATION)
+(a) The Lease Contracting Officer (LCO) may at any time, by written order, direct changes to the
+tenant improvements within the space, building security requirements, or the services required
+under the lease.
+(b) If any such change causes an increase or decrease in Lessor’s cost or time required for
+performance of its obligations under this lease, whether or not changed by the order, the Lessor
+shall be entitled to an amendment to the lease providing for one or more of the following:
+(1) An adjustment of the delivery date.
+(2) An equitable adjustment in the rental rate.
+(3) A lump sum equitable adjustment. or
+(4) An adjustment of the operating cost base, if applicable.
+(c) The Lessor must assert its right to an amendment under this clause within 30 days from the
+date of receipt of the change order and must submit a proposal for adjustment. Failure to agree
+to any adjustment shall be a dispute under the Disputes clause. However, the pendency of an
+adjustment or existence of a dispute shall not excuse the Lessor from proceeding with the
+change as directed.
+(d) Absent a written change order from the LCO, or from a Government official to whom the LCO
+has explicitly and in writing delegated the authority to direct changes, the Government is not
+liable to Lessor under this clause.
+9. GSAR 552.270-8 COMPLIANCE WITH APPLICABLE LAW (SEP 2022) (DEVIATION)
+Lessor shall comply with all Federal, state, tribal, and local laws applicable to its ownership and
+leasing of the property, including, without limitation, laws applicable to the construction, ownership,
+alteration or operation of all buildings, structures, and facilities located thereon, and obtain all
+necessary permits, licenses and similar items at its own expense. The Government will comply with
+all Federal, state, tribal, and local laws applicable to and enforceable against it as a tenant under this
+lease, provided that nothing in this lease shall be construed as a waiver of the sovereign immunity of
+the Government. This lease shall be governed by Federal law.
+10. FAR 52.204-21 BASIC SAFEGUARDING OF COVERED CONTRACTOR
+INFORMATION SYSTEMS (NOV 2021)
+(a) Definitions. As used in this clause—
+Covered contractor information system means an information system that is owned or operated
+by a contractor that processes, stores, or transmits Federal contract information.
+Federal contract information means information, not intended for public release, that is provided
+by or generated for the Government under a contract to develop or deliver a product or service to the
+Government, but not including information provided by the Government to the public (such as on public
+websites) or simple transactional information, such as necessary to process payments.
+Information means any communication or representation of knowledge such as facts, data, or
+opinions, in any medium or form, including textual, numerical, graphic, cartographic, narrative, or
+audiovisual (Committee on National Security Systems Instruction (CNSSI) 4009).
+Information system means a discrete set of information resources organized for the collection,
+processing, maintenance, use, sharing, dissemination, or disposition of information ( 44 U.S.C. 3502).
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 7
+EXHIBIT D
+Safeguarding means measures or controls that are prescribed to protect information systems.
+(b) Safeguarding requirements and procedures.
+(1) The Contractor shall apply the following basic safeguarding requirements and procedures to
+protect covered contractor information systems. Requirements and procedures for basic safeguarding
+of covered contractor information systems shall include, at a minimum, the following security controls:
+(i) Limit information system access to authorized users, processes acting on behalf of
+authorized users, or devices (including other information systems).
+(ii) Limit information system access to the types of transactions and functions that authorized
+users are permitted to execute.
+(iii) Verify and control/limit connections to and use of external information systems.
+(iv) Control information posted or processed on publicly accessible information systems.
+(v) Identify information system users, processes acting on behalf of users, or devices.
+(vi) Authenticate (or verify) the identities of those users, processes, or devices, as a
+prerequisite to allowing access to organizational information systems.
+(vii) Sanitize or destroy information system media containing Federal Contract Information
+before disposal or release for reuse.
+(viii) Limit physical access to organizational information systems, equipment, and the
+respective operating environments to authorized individuals.
+(ix) Escort visitors and monitor visitor activity; maintain audit logs of physical access; and
+control and manage physical access devices.
+(x) Monitor, control, and protect organizational communications (i.e., information transmitted
+or received by organizational information systems) at the external boundaries and key internal boundaries
+of the information systems.
+(xi) Implement subnetworks for publicly accessible system components that are physically or
+logically separated from internal networks.
+(xii) Identify, report, and correct information and information system flaws in a timely manner.
+(xiii) Provide protection from malicious code at appropriate locations within
+organizational information systems.
+(xiv) Update malicious code protection mechanisms when new releases are available.
+(xv) Perform periodic scans of the information system and real-time scans of files from external
+sources as files are downloaded, opened, or executed.
+(2) Other requirements. This clause does not relieve the Contractor of any other specific
+safeguarding requirements specified by Federal agencies and departments relating to covered contractor
+information systems generally or other Federal safeguarding requirements for controlled unclassified
+information (CUI) as established by Executive Order 13556.
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 8
+EXHIBIT D
+(c) Subcontracts. The Contractor shall include the substance of this clause, including this paragraph
+(c), in subcontracts under this contract (including subcontracts for the acquisition of commercial
+products or commercial services, other than commercially available off-the-shelf items), in which the
+subcontractor may have Federal contract information residing in or transiting through its information system.
+11. FAR 52.252-2 CLAUSES INCORPORATED BY REFERENCE (FEB 1998)
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were
+given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text
+of a clause may be accessed electronically at this/these address(es):
+https://www.acquisition.gov/browse/index/far
+https://www.acquisition.gov/browse/index/gsam.
+12. The following clauses are incorporated by reference:
+FAR 52.204-2 SECURITY REQUIREMENTS (MAR 2021) (Applicable when the contract may
+require access to classified information.)
+FAR 52.204-9 PERSONAL IDENTITY VERIFICATION OF CONTRACTOR PERSONNEL
+(JAN 2011)
+FAR 52.204-10, REPORTING EXECUTIVE COMPENSATION AND FIRST-TIER
+SUBCONTRACT AWARDS (JUN 2020) (Applicable if over $30,000 total
+contract value.)
+FAR 52.204-13 SYSTEM FOR AWARD MANAGEMENT MAINTENANCE (OCT 2018)
+FAR 52.204-19 INCORPORATION BY REFERENCE OF REPRESENTATIONS AND
+CERTIFICATIONS (DEC 2014)
+FAR 52.204-23 PROHIBITION ON CONTRACTING FOR HARDWARE, SOFTWARE, AND
+SERVICES DEVELOPED OR PROVIDED BY KASPERSKY LAB AND OTHER
+COVERED ENTITIES (NOV 2021)
+FAR 52.204-25 PROHIBITION ON CONTRACTING FOR CERTAIN TELECOMMUNICATIONS
+AND VIDEO SURVEILLANCE SERVICES OR EQUIPMENT (NOV 2021)
+FAR 52.204-27 PROHIBITION ON A BYTEDANCE COVERED APPLICATION (JUN 2023)
+FAR 52.209-6 PROTECTING THE GOVERNMENT’S INTEREST WHEN
+SUBCONTRACTING WITH CONTRACTORS DEBARRED, SUSPENDED, OR
+PROPOSED FOR DEBARMENT (NOV 2021)
+(Applicable to leases over $35,000 total contract value.)
+FAR 52.215-10 PRICE REDUCTION FOR DEFECTIVE CERTIFIED COST OR PRICING DATA
+(AUG 2011)
+(Applicable when cost or pricing data are required for work or services over
+$2,000,000.)
+FAR 52.215-12 SUBCONTRACTOR CERTIFIED COST OR PRICING DATA (JUN 2020)
+(Applicable when the clause at FAR 52.215-10 is applicable.)
+FAR 52.219-4 NOTICE OF PRICE EVALUATION PREFERENCE FOR HUBZONE SMALL
+BUSINESS CONCERNS (OCT 2022)
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 9
+EXHIBIT D
+FAR 52.219-9 SMALL BUSINESS SUBCONTRACTING PLAN (OCT 2022) ALTERNATE III
+(JUN 2020) (Applicable to Leases over $750,000 total contract value.)
+FAR 52.219-16 LIQUIDATED DAMAGES—SUBCONTRACTING PLAN (SEP 2021)
+(Applicable to leases over $750,000 total contract value.)
+FAR 52.219-28 POST-AWARD SMALL BUSINESS REREPRESENTATION (MAR 2023)
+(Applicable to leases exceeding the micro-purchase threshold)
+FAR 52.222-21 PROHIBITION OF SEGREGATED FACILITIES (APR 2015)
+FAR 52.222-26 EQUAL OPPORTUNITY (SEP 2016)
+FAR 52.222-35 EQUAL OPPORTUNITY FOR VETERANS (JUN 2020)
+(Applicable to leases $150,000 or more, total contract value. Full text may be
+found at http://www.acquisition.gov)
+FAR 52.222-36 EQUAL OPPORTUNITY FOR WORKERS WITH DISABILITIES (JUN 2020)
+(Applicable to leases over $15,000 total contract value. Full text may be found
+at http://www.acquisition.gov)
+FAR 52.222-37 EMPLOYMENT REPORTS ON VETERANS (JUN 2020)
+(Applicable to leases $150,000 or more, total contract value.)
+FAR 52.223-6 DRUG-FREE WORKPLACE (MAY 2001)
+(Applicable to Leases over the Simplified Lease Acquisition Threshold as well
+as to any Leases of any value awarded to an individual)
+FAR 52.232–23 ASSIGNMENT OF CLAIMS (MAY 2014)
+(Applicable to leases over the micro-purchase threshold.)
+FAR 52.232-33 PAYMENT BY ELECTRONIC FUNDS TRANSFER - SYSTEM FOR AWARD
+MANAGEMENT (OCT 2018)
+FAR 52.233-1 DISPUTES (MAY 2014)
+GSAR 552.204-9 PERSONAL IDENTITY VERIFICATION REQUIREMENTS (APR 2023)
+GSAR 552.270-12 ALTERATIONS (SEP 1999)
+GSAR 552.270-16 ADJUSTMENT FOR VACANT PREMISES (JUN 2011)
+GSAR 552.270-25 SUBSTITUTION OF TENANT AGENCY (SEP 1999)
+GSAR 552.270-28 MUTUALITY OF OBLIGATION (SEP 1999)
+GSAR 552.270-31 PROMPT PAYMENT (JUN 2011)
+LESSOR:______ GOVERNMENT:______ GSA Form 3517A –
+REV (10/23)
+Page 10
