@@ -4,7 +4,7 @@
 #pip install pdfplumber
 
 pdf_path="./data/VA Parking Lease Agreement.pdf"
-txt_path=".Output/VA Parking Lease Agreement.txt"
+txt_path="./Output/VA Parking Lease Agreement.txt"
 
 import pdfplumber
 
