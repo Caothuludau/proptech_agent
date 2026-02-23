@@ -15,3 +15,108 @@ https://www.emcbc.doe.gov/SEB/Files/MercuryStorage/FinalRFP/J-5.pdf
 https://www.saginaw-mi.com/DocumentCenter/View/3640/VA-Parking-Lease-Agreement
 https://webgen1files.revize.com/hambsc/Sample%20Lease%20Agreement.pdf
 https://www.payab.pitt.edu/files/ApartmentFinder101/PennsylvaniaStandardResidentialLeaseAgreement.pdf
+https://www.kaggle.com/datasets/rbdbhardwaj123/rentalagreementsdocs?resource=download
+
+Bước 2 - Parse PDF
+
+Implement thư viện pdfplumber
+
+Check content xem có ký tự rác không? Có bị xuống dòng lung tung không?
+
+Bước 3 - Test chunking
+
+Chunk có đủ thông tin không? Có bị thiếu context không? Em thử nhiều chiến lược chunk khác nhau và đánh giá retrieval quality.
+
+Sử dụng "Contextual Compression" hoặc "Parent Document Retriever"
+
+
+Bước 4 - Embedded chunk và đưa vào vector DB - Qdrant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khi đưa vào Vector Database, đừng chỉ đưa text. Hãy đính kèm thông tin cố định vào mỗi chunk.
+
+Ví dụ: Mọi chunk từ 0 đến 9 đều phải có metadata: {"contract_id": "36C25025L0008", "type": "Parking Lease"}.
+
+Khi truy vấn, AI sẽ biết chính xác đoạn text đó thuộc về văn bản nào.
+
+
+
+
+
+
+
+
+
+
+
+
+VI. Want a More Production-Like Setup? Use Docker + Qdrant
+
+Since you know Docker, use a real vector DB.
+
+Run Qdrant:
+docker run -p 6333:6333 qdrant/qdrant
+
+Install client:
+
+pip install qdrant-client
+
+Push vectors:
+
+from qdrant_client import QdrantClient
+from qdrant_client.models import VectorParams, Distance
+
+client = QdrantClient("localhost", port=6333)
+
+client.recreate_collection(
+    collection_name="lease_chunks",
+    vectors_config=VectorParams(
+        size=dimension,
+        distance=Distance.COSINE
+    ),
+)
+
+points = [
+    {
+        "id": i,
+        "vector": embeddings[i].tolist(),
+        "payload": {"text": chunks[i]}
+    }
+    for i in range(len(chunks))
+]
+
+client.upsert(
+    collection_name="lease_chunks",
+    points=points
+)
+
+Dashboard:
+
+http://localhost:6333/dashboard
+
+Now you can inspect vectors + payload like a real system.

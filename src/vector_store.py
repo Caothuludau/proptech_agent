@@ -15,8 +15,12 @@ def init_collection(collection_name, dimension):
     return client
 
 def upsert_embeddings(client, collection_name, chunks, embeddings):
-    if not chunks or not embeddings:
+    if chunks is None or embeddings is None:
         raise ValueError("Chunks and embeddings must be provided and cannot be empty.")
+    if len(chunks) == 0 or len(embeddings) == 0:
+        raise ValueError("Chunks and embeddings must be provided and cannot be empty.")
+    if len(chunks) != len(embeddings):
+        raise ValueError("Chunks and embeddings must have the same length.")
         
     points = [
         {
