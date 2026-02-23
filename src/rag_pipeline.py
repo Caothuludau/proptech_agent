@@ -1,6 +1,6 @@
 from src.chunking import chunk_document
 from src.embedding import embed_chunks
-from src.vector_store import init_collection, upsert_embeddings
+from src.vector_store import init_collection, upsert_embeddings, search_collection
 from qdrant_client import QdrantClient
 from src.parser import load_pdf
 
@@ -8,7 +8,7 @@ class RAGPipeline:
 
     def __init__(self, collection_name="lease_chunks"):
         self.collection_name = collection_name
-        self.client = None
+        self.client = QdrantClient("localhost", port=6333)
         
     def ingest(self, pdf_path):
         print("Loading PDF...")
@@ -22,11 +22,11 @@ class RAGPipeline:
         embeddings = embed_chunks(chunks)
 
         print("Initializing vector store...")
-        if self.client is None:
-            self.client = init_collection(
-                self.collection_name, 
-                dimension=len(embeddings[0])
-                )
+        self.client = init_collection(
+            self.collection_name,
+            dimension=len(embeddings[0]),
+            client=self.client
+            )
         
         upsert_embeddings(
             self.client, 
@@ -42,13 +42,14 @@ class RAGPipeline:
 
         query_embedding = embed_chunks([question])[0]
 
-        results = self.client.search(
+        results = search_collection(
+            self.client,
             collection_name=self.collection_name,
             query_vector=query_embedding.tolist(),
-            limit=top_k
+            limit=top_k,
         )
 
         for r in results:
             print("Score:", r.score)
             print("------")
-            print(r.payload["text"])
+            print("RAW PAYLOAD:", r.payload["text"])
