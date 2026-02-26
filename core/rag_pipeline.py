@@ -1,14 +1,15 @@
-from src.chunking import chunk_document
-from src.embedding import embed_chunks
-from src.vector_store import init_collection, upsert_embeddings, search_collection
+from ingestion.chunking import chunk_document
+from embeddings.embedding import embed_chunks
+from vectorstore.vector_store import init_collection, upsert_embeddings, search_collection
 from qdrant_client import QdrantClient
-from src.parser import load_pdf
+from ingestion.parser import load_pdf
+from core.config import DEFAULT_COLLECTION_NAME, QDRANT_HOST, QDRANT_PORT
 
 class RAGPipeline:
 
-    def __init__(self, collection_name="lease_chunks"):
+    def __init__(self, collection_name: str = DEFAULT_COLLECTION_NAME):
         self.collection_name = collection_name
-        self.client = QdrantClient("localhost", port=6333)
+        self.client = QdrantClient(QDRANT_HOST, port=QDRANT_PORT)
         
     def ingest(self, pdf_path):
         print("Loading PDF...")

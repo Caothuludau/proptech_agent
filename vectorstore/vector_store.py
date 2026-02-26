@@ -1,10 +1,11 @@
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance
 from qdrant_client.models import PointStruct
+from core.config import QDRANT_HOST, QDRANT_PORT
 
 def init_collection(collection_name, dimension, client=None):
     if client is None:
-        client = QdrantClient("localhost", port=6333)
+        client = QdrantClient(QDRANT_HOST, port=QDRANT_PORT)
 
     client.recreate_collection(
         collection_name=collection_name,
@@ -58,7 +59,7 @@ def search_collection(client, collection_name, query_vector, limit=3):
     import requests
     from types import SimpleNamespace
 
-    url = f"http://localhost:6333/collections/{collection_name}/points/search"
+    url = f"http://{QDRANT_HOST}:{QDRANT_PORT}/collections/{collection_name}/points/search"
     payload = {"vector": query_vector, "limit": limit, "with_payload": True}
     resp = requests.post(url, json=payload)
     resp.raise_for_status()
