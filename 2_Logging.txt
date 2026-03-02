@@ -1,9 +1,6 @@
 PropTech AI Agent – Smart Lease Risk & Compliance Analyzer
 
----
-
-Day 1 – RAG Architecture
-
+===============================
 Bước 1 – Lấy dữ liệu
 
 Tìm lease agreement PDF ở:
@@ -31,6 +28,12 @@ Sử dụng "Contextual Compression" hoặc "Parent Document Retriever"
 
 
 Bước 4 - Embedded chunk và đưa vào vector DB - Qdrant
+
+===============================
+Bước 5 - Lấy context ra và đưa vào prompt (Prompt Engineering)
+
+Bước 6 - Chọn LLM và call
+
 
 
 

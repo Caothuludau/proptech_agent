@@ -1,5 +1,11 @@
 PropTech AI Agent – Smart Lease Risk & Compliance Analyzer
 
+Nghiệp vụ:
+
+Lease = hợp đồng thuê tài sản, thường là: Nhà ở, Văn phòng, Retail space, Warehouse
+Trong bối cảnh nước ngoài, đặc biệt ở Mỹ, lease là tài liệu pháp lý rất chi tiết, có thể 20–80 trang.
+
+
 ---
 
 # 🎯 Mục tiêu Tuần 1
@@ -36,6 +42,67 @@ Query → Embed → Retrieve → LLM → Answer
 * RAG giải quyết vấn đề gì?
 * Vì sao không đưa nguyên document vào context?
 * Context window limit ảnh hưởng ra sao?
+
+Bước 3 – Chunking
+
+Cài:
+
+pip install langchain
+
+Hoặc tự viết splitter.
+
+Test 3 loại chunk:
+
+500 characters
+
+1000 characters
+
+Overlap 100
+
+In ra để xem.
+
+Đây là lúc bạn bắt đầu suy nghĩ như engineer.
+
+Bước 4 – Embedding
+
+Dùng:
+
+sentence-transformers (local)
+
+Hoặc OpenAI text-embedding-3-small
+
+Embedding model phải hiểu semantic, không phải TF-IDF.
+
+Bước 5 – Vector DB
+
+Cài:
+
+pip install faiss-cpu
+
+Lưu embedding vào FAISS.
+
+Hiểu:
+
+FAISS dùng approximate nearest neighbor
+
+Cosine similarity = normalized dot product
+
+Bước 6 – Query
+
+Query:
+
+"What is the termination clause?"
+
+Flow:
+
+Embed query
+
+Search top-k = 3
+
+Concatenate chunk
+
+Pass vào LLM
+
 
 ---
 
