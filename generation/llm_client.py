@@ -1,17 +1,16 @@
-from openai import OpenAI
-
+from google import genai
 
 class LLMClient:
 
-    def __init__(self, model_name="gpt-4o-mini"):
+    def __init__(self, model_name="gemini-2.0-flash"):
         self.model_name = model_name
-        self.client = OpenAI()
+        # Client sẽ tự động tìm biến môi trường GOOGLE_API_KEY
+        self.client = genai.Client()
 
     def generate(self, prompt: str) -> str:
-        response = self.client.chat.completions.create(
+        response = self.client.models.generate_content(
             model=self.model_name,
-            messages=[
-                {"role": "user", "content": prompt}
-            ]
+            contents=prompt
         )
-        return response.choices[0].message.content
+        
+        return response.text
